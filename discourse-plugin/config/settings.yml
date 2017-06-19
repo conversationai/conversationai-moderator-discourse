@@ -1,0 +1,10 @@
+plugins:
+  moderator_enabled:
+    default: true
+    client: true
+  moderator_base_url:
+    default: 'https://localhost:8080/api'
+    client: true
+  moderator_json_web_token:
+    default: 'eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VyIjo0MiwiaWF0IjoxNDgxMTMxMTU4LCJpc3MiOiJPcGVuIFNvdXJjZSBNb2RlcmF0b3IifQ.rUpMy5IEB6n22w4xYBEds8wn9_L9Uq9eaDYQi-Wq0rY'
+    client: true

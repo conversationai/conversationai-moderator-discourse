@@ -1,0 +1,3 @@
+#!/bin/bash
+
+gcloud app deploy -q --project="osmod-opensource-demo-3" --promote osmod/app.yaml

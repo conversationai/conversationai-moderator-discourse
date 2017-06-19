@@ -1,0 +1,5 @@
+en:
+  site_settings:
+    moderator_enabled: "Should we moderate these comments?"
+    moderator_base_url: "What is the server URL for API requests? Ex: localhost:8080/api"
+    moderator_json_web_token: "This is the JSON Web Token to authenticate your requests."
